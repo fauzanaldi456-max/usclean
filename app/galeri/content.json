@@ -1,0 +1,700 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "AC SERVICE 1",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "AC SERVICE 2",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "AC SERVICE 3",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "AC SERVICE 4",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "AC SERVICE 5",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "AC SERVICE 6",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "title": "AC SERVICE 7",
+      "category": "AC SERVICE",
+      "image": "/images/services/ac-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan AC SERVICE oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "title": "CUCI MOBIL 1",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 9,
+      "title": "CUCI MOBIL 2",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "title": "CUCI MOBIL 3",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "title": "CUCI MOBIL 4",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "title": "CUCI MOBIL 5",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "title": "CUCI MOBIL 6",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "title": "CUCI MOBIL 7",
+      "category": "CUCI MOBIL",
+      "image": "/images/services/cuci-mobil-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan CUCI MOBIL oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "title": "FOGGING DISINFECTANT 1",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 16,
+      "title": "FOGGING DISINFECTANT 2",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 17,
+      "title": "FOGGING DISINFECTANT 3",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 18,
+      "title": "FOGGING DISINFECTANT 4",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 19,
+      "title": "FOGGING DISINFECTANT 5",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 20,
+      "title": "FOGGING DISINFECTANT 6",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 21,
+      "title": "FOGGING DISINFECTANT 7",
+      "category": "FOGGING DISINFECTANT",
+      "image": "/images/services/fogging-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan FOGGING DISINFECTANT oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 22,
+      "title": "GENERAL CLEANING 1",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 23,
+      "title": "GENERAL CLEANING 2",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-2.jpg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 24,
+      "title": "GENERAL CLEANING 3",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-3.jpeg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 25,
+      "title": "GENERAL CLEANING 4",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-4.jpg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 26,
+      "title": "GENERAL CLEANING 5",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-5.jpeg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 27,
+      "title": "GENERAL CLEANING 6",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-6.jpeg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 28,
+      "title": "GENERAL CLEANING 7",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-7.jpeg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 29,
+      "title": "GENERAL CLEANING 8",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-8.jpg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 30,
+      "title": "GENERAL CLEANING 9",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-9.jpeg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 31,
+      "title": "GENERAL CLEANING 10",
+      "category": "GENERAL CLEANING",
+      "image": "/images/services/general-cleaning-gallery-10.jpeg",
+      "description": "Dokumentasi pengerjaan layanan GENERAL CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 32,
+      "title": "HYDRO CLEANING 1",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 33,
+      "title": "HYDRO CLEANING 2",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 34,
+      "title": "HYDRO CLEANING 3",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 35,
+      "title": "HYDRO CLEANING 4",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 36,
+      "title": "HYDRO CLEANING 5",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 37,
+      "title": "HYDRO CLEANING 6",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 38,
+      "title": "HYDRO CLEANING 7",
+      "category": "HYDRO CLEANING",
+      "image": "/images/services/hydro-cleaning-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan HYDRO CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 39,
+      "title": "INDOOR CLEANING 1",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 40,
+      "title": "INDOOR CLEANING 2",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 41,
+      "title": "INDOOR CLEANING 3",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 42,
+      "title": "INDOOR CLEANING 4",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 43,
+      "title": "INDOOR CLEANING 5",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 44,
+      "title": "INDOOR CLEANING 6",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 45,
+      "title": "INDOOR CLEANING 7",
+      "category": "INDOOR CLEANING",
+      "image": "/images/services/indoor-cleaning-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan INDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 46,
+      "title": "KITCHEN CLEANING 1",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 47,
+      "title": "KITCHEN CLEANING 2",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 48,
+      "title": "KITCHEN CLEANING 3",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 49,
+      "title": "KITCHEN CLEANING 4",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 50,
+      "title": "KITCHEN CLEANING 5",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 51,
+      "title": "KITCHEN CLEANING 6",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 52,
+      "title": "KITCHEN CLEANING 7",
+      "category": "KITCHEN CLEANING",
+      "image": "/images/services/kitchen-cleaning-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan KITCHEN CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 53,
+      "title": "LAYANAN PILIHAN 1",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 54,
+      "title": "LAYANAN PILIHAN 2",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 55,
+      "title": "LAYANAN PILIHAN 3",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 56,
+      "title": "LAYANAN PILIHAN 4",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 57,
+      "title": "LAYANAN PILIHAN 5",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 58,
+      "title": "LAYANAN PILIHAN 6",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 59,
+      "title": "LAYANAN PILIHAN 7",
+      "category": "LAYANAN PILIHAN",
+      "image": "/images/services/layanan-pilihan-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan LAYANAN PILIHAN oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 60,
+      "title": "OUTDOOR CLEANING 1",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 61,
+      "title": "OUTDOOR CLEANING 2",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 62,
+      "title": "OUTDOOR CLEANING 3",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 63,
+      "title": "OUTDOOR CLEANING 4",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 64,
+      "title": "OUTDOOR CLEANING 5",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 65,
+      "title": "OUTDOOR CLEANING 6",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 66,
+      "title": "OUTDOOR CLEANING 7",
+      "category": "OUTDOOR CLEANING",
+      "image": "/images/services/outdoor-cleaning-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan OUTDOOR CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 67,
+      "title": "POLES LANTAI 1",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 68,
+      "title": "POLES LANTAI 2",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 69,
+      "title": "POLES LANTAI 3",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 70,
+      "title": "POLES LANTAI 4",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 71,
+      "title": "POLES LANTAI 5",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 72,
+      "title": "POLES LANTAI 6",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 73,
+      "title": "POLES LANTAI 7",
+      "category": "POLES LANTAI",
+      "image": "/images/services/poles-lantai-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan POLES LANTAI oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 74,
+      "title": "TOILET CLEANING 1",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 75,
+      "title": "TOILET CLEANING 2",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 76,
+      "title": "TOILET CLEANING 3",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 77,
+      "title": "TOILET CLEANING 4",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 78,
+      "title": "TOILET CLEANING 5",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 79,
+      "title": "TOILET CLEANING 6",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 80,
+      "title": "TOILET CLEANING 7",
+      "category": "TOILET CLEANING",
+      "image": "/images/services/toilet-cleaning-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan TOILET CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 81,
+      "title": "WATER CLEANING 1",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-1.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": true
+    },
+    {
+      "id": 82,
+      "title": "WATER CLEANING 2",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-2.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 83,
+      "title": "WATER CLEANING 3",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-3.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 84,
+      "title": "WATER CLEANING 4",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-4.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 85,
+      "title": "WATER CLEANING 5",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-5.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 86,
+      "title": "WATER CLEANING 6",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-6.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    },
+    {
+      "id": 87,
+      "title": "WATER CLEANING 7",
+      "category": "WATER CLEANING",
+      "image": "/images/services/water-cleaning-gallery-7.png",
+      "description": "Dokumentasi pengerjaan layanan WATER CLEANING oleh tim Us Clean Services.",
+      "featured": false
+    }
+  ]
+}

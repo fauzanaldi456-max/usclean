@@ -11,23 +11,35 @@ import { motion, AnimatePresence } from "framer-motion"
 const bannerData = [
   {
     id: 1,
-    title: "Membangun Kota Tanjung Pinang Bersama",
+    title: "Jasa Cleaning Service Terbaik Se-Indonesia",
     description:
-      " Kue cakar ayam di Tanjungpinang termasuk jenis kue kering yang sudah melegenda di masyarakat. Jenis kue ringan dari ubi jalar atau orang Tanjungpinang menyebutnya kledek memiliki rasa yang gurih dan manis karena di campur dengan gula aren saat menggoreng. ",
-    image: "/rumah1.jpeg",
+      "Bersama Us Clean Services bersih-bersih rumah hingga furnitur hanya dengan satu Klik!",
+    image: "/images/profil2.png",
     cta: {
-      text: "",
-      link: "/aid",
+      text: "Lihat Layanan",
+      link: "/layanan-kami/general-cleaning",
     },
   },
   {
     id: 2,
-    title: "Dukung Cita Rasa Lokal dari UMKM Tanjung Pinang",
-    description: "Nikmati dan dukung produk unggulan UMKM lokal yang menjadi kebanggaan warga Tanjung Pinang.Kue Cakar Ayam adalah camilan khas yang dibuat dengan resep tradisional turun-temurun, menghadirkan kelezatan gurih dan renyah yang tak lekang oleh waktu.",
-    image: "/rumah2.jpeg",
+    title: "Lihat Hasil Pengerjaan di Galeri",
+    description:
+      "Jelajahi dokumentasi sebelum–sesudah dan kualitas hasil kerja tim kami untuk berbagai layanan: sofa, kasur, kamar mandi, dapur, dan lainnya.",
+    image: "/images/profil3.png",
     cta: {
-      text: "Lihat Katalog",
-      link: "/umkm",
+      text: "Buka Galeri",
+      link: "/galeri",
+    },
+  },
+  {
+    id: 3,
+    title: "Konsultasi Cepat & Penjadwalan Mudah",
+    description:
+      "Butuh estimasi harga atau jadwal? Hubungi kami untuk konsultasi kebutuhan, rekomendasi layanan, dan penawaran terbaik.",
+    image: "/images/profil1.jpg",
+    cta: {
+      text: "Hubungi Kami",
+      link: "https://wa.me/6281364520919",
     },
   },
   
@@ -55,7 +67,7 @@ const HeroBanner = () => {
   }
 
   return (
-    <section className="relative py-12 md:py-20 overflow-hidden">
+    <section className="relative pb-12 pt-2 md:pb-20 md:pt-4 overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="relative h-[500px] md:h-[600px] rounded-2xl overflow-hidden shadow-2xl">
           {/* Carousel dengan animasi */}
@@ -90,7 +102,7 @@ const HeroBanner = () => {
                 </motion.h1>
 
                 <motion.p
-                  className="text-lg text-white/90 mb-8"
+                  className="text-white/90 mb-8"
                   initial={{ y: 20, opacity: 0 }}
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.4, duration: 0.5 }}
@@ -103,7 +115,17 @@ const HeroBanner = () => {
                   animate={{ y: 0, opacity: 1 }}
                   transition={{ delay: 0.6, duration: 0.5 }}
                 >
-              
+                  {bannerData[current].cta?.text ? (
+                    <Button
+                      asChild
+                      size="lg"
+                      className="bg-[#0f4c81] hover:bg-[#0f4c81]/90 text-white inline-flex items-center gap-2"
+                    >
+                      <Link href={bannerData[current].cta.link}>
+                        {bannerData[current].cta.text} <ArrowRight className="h-5 w-5" />
+                      </Link>
+                    </Button>
+                  ) : null}
                 </motion.div>
               </div>
             </motion.div>

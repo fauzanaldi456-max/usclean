@@ -10,19 +10,19 @@
     --card-foreground: 215 25% 27%;
     --popover: 0 0% 100%;
     --popover-foreground: 215 25% 27%;
-    --primary: 20 100% 64%;
+    --primary: 217 91% 60%;
     --primary-foreground: 210 40% 98%;
     --secondary: 172 66% 50%;
     --secondary-foreground: 222.2 47.4% 11.2%;
     --muted: 210 40% 96.1%;
     --muted-foreground: 215.4 16.3% 46.9%;
-    --accent: 20 100% 64%;
+    --accent: 217 91% 60%;
     --accent-foreground: 222.2 47.4% 11.2%;
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
     --border: 214.3 31.8% 91.4%;
     --input: 214.3 31.8% 91.4%;
-    --ring: 20 100% 64%;
+    --ring: 217 91% 60%;
     --radius: 1rem;
   }
 
@@ -33,19 +33,19 @@
     --card-foreground: 210 40% 98%;
     --popover: 222.2 84% 4.9%;
     --popover-foreground: 210 40% 98%;
-    --primary: 20 100% 64%;
+    --primary: 217 91% 60%;
     --primary-foreground: 222.2 47.4% 11.2%;
     --secondary: 172 66% 50%;
     --secondary-foreground: 210 40% 98%;
     --muted: 217.2 32.6% 17.5%;
     --muted-foreground: 215 20.2% 65.1%;
-    --accent: 20 100% 64%;
+    --accent: 217 91% 60%;
     --accent-foreground: 210 40% 98%;
     --destructive: 0 62.8% 30.6%;
     --destructive-foreground: 210 40% 98%;
     --border: 217.2 32.6% 17.5%;
     --input: 217.2 32.6% 17.5%;
-    --ring: 20 100% 64%;
+    --ring: 217 91% 60%;
   }
 }
 
@@ -54,9 +54,12 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
-    font-family: "Inter", sans-serif;
-    scroll-behavior: smooth; /* Menambahkan smooth scrolling */
+    @apply bg-background text-foreground tracking-wide text-sm leading-relaxed;
+    font-family: var(--font-inter), sans-serif;
+    scroll-behavior: smooth;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-nunito), sans-serif;
   }
 }
 
@@ -82,13 +85,13 @@
 /* Pulse animation for CTA buttons */
 @keyframes pulse {
   0% {
-    box-shadow: 0 0 0 0 rgba(255, 153, 51, 0.7);
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.7);
   }
   70% {
-    box-shadow: 0 0 0 10px rgba(255, 153, 51, 0);
+    box-shadow: 0 0 0 10px rgba(59, 130, 246, 0);
   }
   100% {
-    box-shadow: 0 0 0 0 rgba(255, 153, 51, 0);
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
   }
 }
 

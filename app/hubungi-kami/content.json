@@ -1,0 +1,20 @@
+{
+  "companyName": "Us Clean Services",
+  "subtitle": "Layanan Kebersihan Profesional",
+  "addressLines": [
+    "Jalan Pramuka Lorong Timor No. 17A,",
+    "Tanjung Pinang,",
+    "Kepulauan Riau, Indonesia"
+  ],
+  "phone": "0813 6452 0919",
+  "email": "jasabersihrumah.co@gmail.com",
+  "website": "www.uscleanservices.com",
+  "mapEmbedUrl": "https://maps.google.com/maps?q=Jalan%20Pramuka%20Lorong%20Timor%20No.%2017A%2C%20Tanjung%20Pinang&t=&z=15&ie=UTF8&iwloc=&output=embed",
+  "social": {
+    "facebook": "https://web.facebook.com/jasabersihrumahtpi/?locale=id_ID&_rdc=1&_rdr#",
+    "instagram": "https://www.instagram.com/jasabersihrumah_tanjungpinang/",
+    "youtube": "",
+    "twitter": "",
+    "whatsapp": "https://wa.me/6281364520919"
+  }
+}

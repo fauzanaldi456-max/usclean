@@ -1,0 +1,817 @@
+{
+  "general-cleaning": {
+    "title": "GENERAL CLEANING",
+    "description": "Layanan pembersihan menyeluruh untuk menjaga kebersihan properti Anda.",
+    "image": "/images/services/general-cleaning-main.png",
+    "imagePosition": "50% 70%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Jasa General Cleaning",
+      "heading": "Layanan Kebersihan Komprehensif untuk Anda",
+      "paragraphs": [
+        "Kami menyediakan layanan kebersihan menyeluruh untuk rumah, kantor, dan bangunan komersial Anda."
+      ],
+      "image": "/images/services/general-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 70%"
+    },
+    "gallery": [
+      "/images/services/general-cleaning-gallery-1.png",
+      "/images/services/general-cleaning-gallery-2.jpg",
+      "/images/services/general-cleaning-gallery-3.jpeg",
+      "/images/services/general-cleaning-gallery-4.jpg",
+      "/images/services/general-cleaning-gallery-5.jpeg",
+      "/images/services/general-cleaning-gallery-6.jpeg",
+      "/images/services/general-cleaning-gallery-7.jpeg",
+      "/images/services/general-cleaning-gallery-8.jpg",
+      "/images/services/general-cleaning-gallery-9.jpeg",
+      "/images/services/general-cleaning-gallery-10.jpeg"
+    ],
+    "programs": [
+      {
+        "title": "Cuci Sofa Sedang",
+        "desc": "Membersihkan sofa sedang dari noda, bau, dan kuman.",
+        "src": "/images/services/general-cleaning-program-1.jpeg",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Cuci Sofa Leather",
+        "desc": "Perawatan sofa kulit menjaga kelembutan dan kualitas.",
+        "src": "/images/services/general-cleaning-program-2.jpg",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Cuci Sofa Kayu",
+        "desc": "Pembersihan bagian kayu & dudukan agar bersih dan indah.",
+        "src": "/images/services/general-cleaning-program-3.jpeg",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Cuci Sofabed",
+        "desc": "Pembersihan komprehensif untuk sofabed agar maksimal.",
+        "src": "/images/services/general-cleaning-program-4.jpeg",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah saya perlu memindahkan sofa dari rumah saya?",
+        "a": "Kami menyediakan layanan cuci di tempat tanpa perlu dipindahkan."
+      },
+      {
+        "q": "Mengapa saya perlu menggunakan jasa cuci sofa?",
+        "a": "Peralatan profesional memastikan pembersihan menyeluruh dan aman."
+      },
+      {
+        "q": "Seberapa sering sebaiknya saya mencuci sofa?",
+        "a": "Umumnya 3–6 bulan sekali tergantung pemakaian dan lingkungan."
+      },
+      {
+        "q": "Bagaimana proses pencucian dilakukan?",
+        "a": "Pemeriksaan bahan, pre-treatment, pembersihan, pengeringan, dan finishing."
+      },
+      {
+        "q": "Di mana alamat kantor Us Clean Services?",
+        "a": "Silakan hubungi kami; tim akan menginformasikan alamat dan jadwal."
+      }
+    ]
+  },
+  "ac": {
+    "title": "AC (AIR CONDITIONER)",
+    "description": "Perawatan dan perbaikan AC untuk kenyamanan ruangan Anda.",
+    "image": "/images/services/ac-main.png",
+    "imagePosition": "50% 35%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Jasa Service AC",
+      "heading": "Solusi Pendingin Ruangan Terbaik",
+      "paragraphs": [
+        "Teknisi profesional kami siap membantu perawatan, perbaikan, dan instalasi AC Anda."
+      ],
+      "image": "/images/services/ac-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 35%"
+    },
+    "faqImage": "/images/services/ac-faq.png",
+    "cta": {
+      "title": "Butuh Jasa Perawatan AC Profesional?",
+      "subtitle": "Hubungi tim kami untuk penawaran & jadwal terbaik.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/ac-gallery-1.png",
+      "/images/services/ac-gallery-2.png",
+      "/images/services/ac-gallery-3.png",
+      "/images/services/ac-gallery-4.png",
+      "/images/services/ac-gallery-5.png",
+      "/images/services/ac-gallery-6.png",
+      "/images/services/ac-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Cuci Filter",
+        "desc": "Membersihkan filter dari debu untuk sirkulasi udara optimal.",
+        "src": "/images/services/ac-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Semprot Evaporator",
+        "desc": "Membersihkan evaporator untuk meningkatkan efisiensi pendinginan.",
+        "src": "/images/services/ac-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Cek Freon",
+        "desc": "Pemeriksaan kebocoran dan tekanan freon sesuai standar.",
+        "src": "/images/services/ac-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah AC harus dicuci rutin?",
+        "a": "Disarankan setiap 3–4 bulan untuk menjaga performa dan kesehatan."
+      },
+      {
+        "q": "Apakah garansi berlaku?",
+        "a": "Kami berikan garansi layanan sesuai paket yang dipilih."
+      },
+      {
+        "q": "Berapa lama pengerjaan cuci AC?",
+        "a": "Estimasi pengerjaan 45-60 menit per unit tergantung kondisi."
+      }
+    ]
+  },
+  "hydro-cleaning": {
+    "title": "HYDRO CLEANING",
+    "description": "Pembersihan mendalam menggunakan teknologi hydro cleaning.",
+    "image": "/images/services/hydro-cleaning-main.png",
+    "imagePosition": "50% 35%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Jasa Hydro Cleaning",
+      "heading": "Kebersihan Total dengan Hydro Cleaning",
+      "paragraphs": [
+        "Metode pembersihan modern yang efektif mengangkat debu dan kotoran membandel."
+      ],
+      "image": "/images/services/hydro-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 35%"
+    },
+    "faqImage": "/images/services/hydro-cleaning-faq.png",
+    "cta": {
+      "title": "Butuh Hydro Cleaning Aman & Efektif?",
+      "subtitle": "Hubungi kami untuk konsultasi lokasi & kebutuhan Anda.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/hydro-cleaning-gallery-1.png",
+      "/images/services/hydro-cleaning-gallery-2.png",
+      "/images/services/hydro-cleaning-gallery-3.png",
+      "/images/services/hydro-cleaning-gallery-4.png",
+      "/images/services/hydro-cleaning-gallery-5.png",
+      "/images/services/hydro-cleaning-gallery-6.png",
+      "/images/services/hydro-cleaning-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Tekanan Air Tinggi",
+        "desc": "Mengangkat kotoran membandel dengan jet tekanan.",
+        "src": "/images/services/hydro-cleaning-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Nozzle Khusus",
+        "desc": "Menjangkau celah sempit secara presisi.",
+        "src": "/images/services/hydro-cleaning-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Area Sulit",
+        "desc": "Membersihkan area yang sulit dijangkau aman dan efektif.",
+        "src": "/images/services/hydro-cleaning-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah metode ini aman untuk semua permukaan?",
+        "a": "Ya, kami menyesuaikan tekanan air agar aman untuk berbagai material."
+      },
+      {
+        "q": "Apakah bisa menghilangkan noda membandel?",
+        "a": "Tentu, tekanan tinggi efektif mengangkat lumut dan kotoran kerak."
+      },
+      {
+        "q": "Berapa lama pengerjaannya?",
+        "a": "Tergantung luas area, biasanya 1-3 jam."
+      }
+    ]
+  },
+  "cuci-mobil": {
+    "title": "CUCI MOBIL",
+    "description": "Pembersihan interior dan eksterior kendaraan secara menyeluruh.",
+    "image": "/images/services/cuci-mobil-main.png",
+    "imagePosition": "50% 30%",
+    "imageHeight": "h-64",
+    "imageFit": "object-cover",
+    "hero": {
+      "eyebrow": "Us Clean Services – Jasa Cuci Mobil",
+      "heading": "Kilau Sempurna untuk Kendaraan Anda",
+      "paragraphs": [
+        "Layanan cuci mobil detail yang membuat kendaraan Anda tampak baru kembali."
+      ],
+      "image": "/images/services/cuci-mobil-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 30%"
+    },
+    "faqImage": "/images/services/cuci-mobil-faq.png",
+    "cta": {
+      "title": "Butuh Cuci Mobil Profesional?",
+      "subtitle": "Jadwalkan layanan detailing sesuai kebutuhan Anda.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/cuci-mobil-gallery-1.png",
+      "/images/services/cuci-mobil-gallery-2.png",
+      "/images/services/cuci-mobil-gallery-3.png",
+      "/images/services/cuci-mobil-gallery-4.png",
+      "/images/services/cuci-mobil-gallery-5.png",
+      "/images/services/cuci-mobil-gallery-6.png",
+      "/images/services/cuci-mobil-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Eksterior",
+        "desc": "Cuci bodi, velg, dan kaca untuk tampilan maksimal.",
+        "src": "/images/services/cuci-mobil-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Interior",
+        "desc": "Vacuum, pembersihan jok dan karpet, detail dashboard.",
+        "src": "/images/services/cuci-mobil-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Detailing",
+        "desc": "Perawatan mendalam untuk kilap dan perlindungan cat.",
+        "src": "/images/services/cuci-mobil-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Berapa lama proses detailing mobil?",
+        "a": "Untuk paket lengkap eksterior & interior memakan waktu 3-5 jam."
+      },
+      {
+        "q": "Apakah menggunakan bahan yang aman untuk cat?",
+        "a": "Kami menggunakan sampo dan wax premium yang aman dan melindungi cat."
+      },
+      {
+        "q": "Apakah bisa panggilan ke rumah?",
+        "a": "Ya, kami melayani home service dengan peralatan lengkap."
+      }
+    ]
+  },
+  "fogging": {
+    "title": "FOGGING",
+    "description": "Pengasapan untuk mengurangi bakteri, virus, dan serangga.",
+    "image": "/images/services/fogging-main.png",
+    "imagePosition": "50% 60%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Jasa Fogging",
+      "heading": "Disinfeksi Ruangan Aman & Efektif",
+      "paragraphs": [
+        "Menjaga kebersihan udara dan ruangan dari kuman."
+      ],
+      "image": "/images/services/fogging-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 60%"
+    },
+    "faqImage": "/images/services/fogging-faq.png",
+    "cta": {
+      "title": "Butuh Fogging Ruangan?",
+      "subtitle": "Kami gunakan bahan aman dan tersertifikasi.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/fogging-gallery-1.png",
+      "/images/services/fogging-gallery-2.png",
+      "/images/services/fogging-gallery-3.png",
+      "/images/services/fogging-gallery-4.png",
+      "/images/services/fogging-gallery-5.png",
+      "/images/services/fogging-gallery-6.png",
+      "/images/services/fogging-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Disinfeksi",
+        "desc": "Membasmi kuman dan bakteri di ruangan tertutup.",
+        "src": "/images/services/fogging-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Agen Aman",
+        "desc": "Menggunakan bahan yang aman dan tersertifikasi.",
+        "src": "/images/services/fogging-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Area Tertutup",
+        "desc": "Efektif untuk area dengan sirkulasi terbatas.",
+        "src": "/images/services/fogging-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah cairan fogging aman untuk keluarga?",
+        "a": "Kami menggunakan disinfektan food-grade yang aman bagi manusia dan hewan."
+      },
+      {
+        "q": "Berapa lama ruangan harus dikosongkan setelah fogging?",
+        "a": "Disarankan menunggu 30-60 menit agar asap bekerja maksimal dan hilang."
+      },
+      {
+        "q": "Apakah efektif membunuh virus?",
+        "a": "Ya, metode ini efektif membasmi bakteri, virus, dan jamur di udara."
+      }
+    ]
+  },
+  "poles-lantai": {
+    "title": "POLES LANTAI",
+    "description": "Perawatan lantai untuk menjaga kilap dan ketahanan permukaan.",
+    "image": "/images/services/poles-lantai-main.png",
+    "imagePosition": "50% 45%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Jasa Poles Lantai",
+      "heading": "Kilau Optimal untuk Berbagai Jenis Lantai",
+      "paragraphs": [
+        "Perawatan menyeluruh untuk marmer, granit, dan keramik."
+      ],
+      "image": "/images/services/poles-lantai-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 45%"
+    },
+    "faqImage": "/images/services/poles-lantai-faq.png",
+    "cta": {
+      "title": "Butuh Poles Lantai Profesional?",
+      "subtitle": "Hubungi kami untuk survei dan penawaran.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/poles-lantai-gallery-1.png",
+      "/images/services/poles-lantai-gallery-2.png",
+      "/images/services/poles-lantai-gallery-3.png",
+      "/images/services/poles-lantai-gallery-4.png",
+      "/images/services/poles-lantai-gallery-5.png",
+      "/images/services/poles-lantai-gallery-6.png",
+      "/images/services/poles-lantai-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Marmer",
+        "desc": "Poles marmer untuk kilau dan perlindungan.",
+        "src": "/images/services/poles-lantai-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Granit",
+        "desc": "Perawatan granit untuk permukaan yang berkilau.",
+        "src": "/images/services/poles-lantai-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Keramik",
+        "desc": "Pembersihan dan poles keramik menyeluruh.",
+        "src": "/images/services/poles-lantai-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah lantai akan menjadi licin setelah dipoles?",
+        "a": "Tidak, kami menggunakan finishing yang mengkilap namun tidak licin."
+      },
+      {
+        "q": "Berapa lama ketahanan kilapnya?",
+        "a": "Dengan perawatan wajar, kilap bisa bertahan 6-12 bulan."
+      },
+      {
+        "q": "Apakah bisa menghilangkan baret halus?",
+        "a": "Ya, proses grinding dan polishing dapat menyamarkan baret halus."
+      }
+    ]
+  },
+  "outdoor-cleaning": {
+    "title": "OUTDOOR CLEANING",
+    "description": "Pembersihan area luar agar lingkungan tetap bersih dan rapi.",
+    "image": "/images/services/outdoor-cleaning-main.png",
+    "imagePosition": "50% 50%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Outdoor Cleaning",
+      "heading": "Bersihkan Area Luar Rumah & Kantor",
+      "paragraphs": [
+        "Perapihan halaman, taman, fasad, hingga pagar."
+      ],
+      "image": "/images/services/outdoor-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 50%"
+    },
+    "faqImage": "/images/services/outdoor-cleaning-faq.png",
+    "cta": {
+      "title": "Butuh Outdoor Cleaning?",
+      "subtitle": "Tim kami siap menangani area luar Anda.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/outdoor-cleaning-gallery-1.png",
+      "/images/services/outdoor-cleaning-gallery-2.png",
+      "/images/services/outdoor-cleaning-gallery-3.png",
+      "/images/services/outdoor-cleaning-gallery-4.png",
+      "/images/services/outdoor-cleaning-gallery-5.png",
+      "/images/services/outdoor-cleaning-gallery-6.png",
+      "/images/services/outdoor-cleaning-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Halaman",
+        "desc": "Perapihan dan pembersihan halaman/taman.",
+        "src": "/images/services/outdoor-cleaning-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Fasad",
+        "desc": "Pembersihan fasad bangunan dari debu dan jamur.",
+        "src": "/images/services/outdoor-cleaning-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Pagar",
+        "desc": "Membersihkan pagar dari kotoran dan karat ringan.",
+        "src": "/images/services/outdoor-cleaning-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah termasuk pembersihan selokan?",
+        "a": "Kami membersihkan area permukaan, untuk selokan tertutup perlu survei dulu."
+      },
+      {
+        "q": "Apakah perlu air dari pemilik rumah?",
+        "a": "Kami membawa peralatan, namun akses air dan listrik dari lokasi sangat membantu."
+      },
+      {
+        "q": "Apakah bisa membersihkan lumut di paving block?",
+        "a": "Sangat bisa, kami menggunakan metode khusus untuk mengangkat lumut."
+      }
+    ]
+  },
+  "indoor-cleaning": {
+    "title": "INDOOR CLEANING",
+    "description": "Pembersihan area dalam ruangan untuk kenyamanan dan kesehatan.",
+    "image": "/images/services/indoor-cleaning-main.png",
+    "imagePosition": "50% 50%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Indoor Cleaning",
+      "heading": "Pembersihan Area Dalam Rumah",
+      "paragraphs": [
+        "Fokus higienitas kamar, dapur, dan ruang keluarga."
+      ],
+      "image": "/images/services/indoor-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 50%"
+    },
+    "faqImage": "/images/services/indoor-cleaning-faq.png",
+    "cta": {
+      "title": "Butuh Indoor Cleaning?",
+      "subtitle": "Kami siap menjaga kebersihan area dalam.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/indoor-cleaning-gallery-1.png",
+      "/images/services/indoor-cleaning-gallery-2.png",
+      "/images/services/indoor-cleaning-gallery-3.png",
+      "/images/services/indoor-cleaning-gallery-4.png",
+      "/images/services/indoor-cleaning-gallery-5.png",
+      "/images/services/indoor-cleaning-gallery-6.png",
+      "/images/services/indoor-cleaning-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Kamar",
+        "desc": "Debu, lantai, dan permukaan kamar bersih dan rapi.",
+        "src": "/images/services/indoor-cleaning-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Dapur",
+        "desc": "Pembersihan area memasak, kabinet, dan wastafel.",
+        "src": "/images/services/indoor-cleaning-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Ruang Keluarga",
+        "desc": "Perapihan dan pembersihan sofa/meja TV.",
+        "src": "/images/services/indoor-cleaning-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah petugas membawa alat sendiri?",
+        "a": "Ya, kami membawa peralatan dan bahan pembersih lengkap."
+      },
+      {
+        "q": "Apakah aman untuk barang pecah belah?",
+        "a": "Tim kami terlatih bekerja hati-hati dan profesional di area sensitif."
+      },
+      {
+        "q": "Apakah bisa request area tertentu saja?",
+        "a": "Tentu, Anda bisa memilih area prioritas yang ingin dibersihkan."
+      }
+    ]
+  },
+  "water-cleaning": {
+    "title": "WATER CLEANING",
+    "description": "Pembersihan area berbasis air agar tetap higienis dan aman.",
+    "image": "/images/services/water-cleaning-main.png",
+    "imagePosition": "50% 60%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Water Cleaning",
+      "heading": "Pembersihan Berbasis Air Aman",
+      "paragraphs": [
+        "Penanganan berbagai permukaan dengan bahan ramah lingkungan."
+      ],
+      "image": "/images/services/water-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 60%"
+    },
+    "faqImage": "/images/services/water-cleaning-faq.png",
+    "cta": {
+      "title": "Butuh Water Cleaning?",
+      "subtitle": "Solusi bersih untuk permukaan licin maupun keras.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/water-cleaning-gallery-1.png",
+      "/images/services/water-cleaning-gallery-2.png",
+      "/images/services/water-cleaning-gallery-3.png",
+      "/images/services/water-cleaning-gallery-4.png",
+      "/images/services/water-cleaning-gallery-5.png",
+      "/images/services/water-cleaning-gallery-6.png",
+      "/images/services/water-cleaning-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Jet Washer",
+        "desc": "Menggunakan jet air bertekanan untuk permukaan keras.",
+        "src": "/images/services/water-cleaning-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Detergen Aman",
+        "desc": "Bahan pembersih ramah lingkungan dan efektif.",
+        "src": "/images/services/water-cleaning-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Permukaan Licin",
+        "desc": "Penanganan khusus agar aman pada permukaan licin.",
+        "src": "/images/services/water-cleaning-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apa bedanya dengan cleaning biasa?",
+        "a": "Water cleaning fokus pada penggunaan air bertekanan atau flow untuk bilas maksimal."
+      },
+      {
+        "q": "Apakah lantai jadi becek lama?",
+        "a": "Kami memiliki alat wet vacuum untuk menyedot sisa air hingga kering 90%."
+      },
+      {
+        "q": "Cocok untuk area apa saja?",
+        "a": "Teras, garasi, kamar mandi, dan area basah lainnya."
+      }
+    ]
+  },
+  "toilet-cleaning": {
+    "title": "TOILET CLEANING",
+    "description": "Pembersihan toilet menyeluruh untuk standar sanitasi terjaga.",
+    "image": "/images/services/toilet-cleaning-main.png",
+    "imagePosition": "50% 60%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Toilet Cleaning",
+      "heading": "Toilet Bersih, Higienis, Bebas Bau",
+      "paragraphs": [
+        "Sanitasi menyeluruh pada permukaan dan saluran."
+      ],
+      "image": "/images/services/toilet-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 60%"
+    },
+    "faqImage": "/images/services/toilet-cleaning-faq.png",
+    "cta": {
+      "title": "Butuh Toilet Cleaning?",
+      "subtitle": "Jaga kebersihan kamar mandi keluarga Anda.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/toilet-cleaning-gallery-1.png",
+      "/images/services/toilet-cleaning-gallery-2.png",
+      "/images/services/toilet-cleaning-gallery-3.png",
+      "/images/services/toilet-cleaning-gallery-4.png",
+      "/images/services/toilet-cleaning-gallery-5.png",
+      "/images/services/toilet-cleaning-gallery-6.png",
+      "/images/services/toilet-cleaning-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Sanitasi",
+        "desc": "Disinfeksi untuk kebersihan maksimal.",
+        "src": "/images/services/toilet-cleaning-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Anti Bau",
+        "desc": "Penanganan sumber bau dan pencegahan.",
+        "src": "/images/services/toilet-cleaning-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Keramik",
+        "desc": "Pembersihan keramik dan nat dari kerak.",
+        "src": "/images/services/toilet-cleaning-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah bisa menghilangkan kerak membandel di keramik?",
+        "a": "Kami menggunakan bahan khusus untuk melunakkan dan mengangkat kerak tahunan."
+      },
+      {
+        "q": "Apakah bahan kimianya berbau menyengat?",
+        "a": "Kami meminimalisir bau dan melakukan penetralan setelah pengerjaan."
+      },
+      {
+        "q": "Berapa lama pengerjaan satu toilet?",
+        "a": "Rata-rata 1.5 - 2 jam untuk hasil deep cleaning maksimal."
+      }
+    ]
+  },
+  "kitchen-cleaning": {
+    "title": "KITCHEN CLEANING",
+    "description": "Pembersihan dapur untuk kebersihan dan keamanan makanan.",
+    "image": "/images/services/kitchen-cleaning-main.png",
+    "imagePosition": "50% 60%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Kitchen Cleaning",
+      "heading": "Dapur Bersih, Aman, Rapi",
+      "paragraphs": [
+        "Perawatan area memasak, kabinet, dan wastafel."
+      ],
+      "image": "/images/services/kitchen-cleaning-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 60%"
+    },
+    "faqImage": "/images/services/kitchen-cleaning-faq.png",
+    "cta": {
+      "title": "Butuh Kitchen Cleaning?",
+      "subtitle": "Kembalikan kenyamanan dan higienitas dapur Anda.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/kitchen-cleaning-gallery-1.png",
+      "/images/services/kitchen-cleaning-gallery-2.png",
+      "/images/services/kitchen-cleaning-gallery-3.png",
+      "/images/services/kitchen-cleaning-gallery-4.png",
+      "/images/services/kitchen-cleaning-gallery-5.png",
+      "/images/services/kitchen-cleaning-gallery-6.png",
+      "/images/services/kitchen-cleaning-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Kompor",
+        "desc": "Membersihkan kompor dan area memasak dari minyak.",
+        "src": "/images/services/kitchen-cleaning-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Kabinet",
+        "desc": "Pembersihan kabinet dalam-luar rapi dan higienis.",
+        "src": "/images/services/kitchen-cleaning-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Wastafel",
+        "desc": "Membersihkan wastafel dan saluran dari kerak.",
+        "src": "/images/services/kitchen-cleaning-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Apakah bisa membersihkan minyak yang sudah mengerak?",
+        "a": "Ya, kami menggunakan degreaser ampuh untuk mengangkat lemak membandel."
+      },
+      {
+        "q": "Apakah aman untuk area penyimpanan makanan?",
+        "a": "Kami menggunakan bahan food-safe untuk area yang kontak dengan makanan."
+      },
+      {
+        "q": "Apakah termasuk membersihkan kulkas dalam?",
+        "a": "Ya, kami bisa membersihkan bagian dalam kulkas sebagai layanan tambahan."
+      }
+    ]
+  },
+  "layanan-pilihan": {
+    "title": "LAYANAN PILIHAN",
+    "description": "Layanan kebersihan khusus sesuai kebutuhan spesifik Anda.",
+    "image": "/images/services/layanan-pilihan-main.png",
+    "imagePosition": "50% 60%",
+    "imageHeight": "h-64",
+    "hero": {
+      "eyebrow": "Us Clean Services – Layanan Pilihan",
+      "heading": "Solusi Kebersihan yang Disesuaikan",
+      "paragraphs": [
+        "Kami menyediakan layanan khusus yang dapat disesuaikan dengan kebutuhan unik Anda."
+      ],
+      "image": "/images/services/layanan-pilihan-hero.png",
+      "imageFit": "object-cover",
+      "imagePosition": "50% 60%"
+    },
+    "faqImage": "/images/services/layanan-pilihan-faq.png",
+    "cta": {
+      "title": "Butuh Layanan Khusus?",
+      "subtitle": "Konsultasikan kebutuhan Anda dengan tim kami.",
+      "buttonText": "Hubungi Kami",
+      "buttonUrl": "https://wa.me/6281364520919"
+    },
+    "gallery": [
+      "/images/services/layanan-pilihan-gallery-1.png",
+      "/images/services/layanan-pilihan-gallery-2.png",
+      "/images/services/layanan-pilihan-gallery-3.png",
+      "/images/services/layanan-pilihan-gallery-4.png",
+      "/images/services/layanan-pilihan-gallery-5.png",
+      "/images/services/layanan-pilihan-gallery-6.png",
+      "/images/services/layanan-pilihan-gallery-7.png"
+    ],
+    "programs": [
+      {
+        "title": "Request Khusus",
+        "desc": "Layanan yang disesuaikan dengan permintaan Anda.",
+        "src": "/images/services/layanan-pilihan-program-1.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Fleksibel",
+        "desc": "Jadwal dan lingkup kerja yang fleksibel.",
+        "src": "/images/services/layanan-pilihan-program-2.png",
+        "imagePosition": "object-top"
+      },
+      {
+        "title": "Profesional",
+        "desc": "Dikerjakan oleh tim ahli dan berpengalaman.",
+        "src": "/images/services/layanan-pilihan-program-3.png",
+        "imagePosition": "object-top"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Bagaimana cara memesan layanan pilihan?",
+        "a": "Silakan hubungi kami untuk mendiskusikan kebutuhan spesifik Anda."
+      },
+      {
+        "q": "Apakah harganya berbeda?",
+        "a": "Harga akan disesuaikan dengan lingkup pekerjaan yang disepakati."
+      },
+      {
+        "q": "Area mana saja yang bisa dilayani?",
+        "a": "Kami melayani seluruh area Tanjung Pinang dan Kota Lainnya."
+      }
+    ]
+  }
+}

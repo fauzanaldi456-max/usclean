@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Us Clean Hadir Membantu",
+    "subtitle": "Segala Kebutuhan Bersih - Bersih Kamu",
+    "description": "Us Clean hadir sebagai solusi kebersihan terpercaya untuk Anda. Kami berkomitmen memberikan layanan terbaik dengan tenaga profesional untuk menciptakan lingkungan yang bersih, sehat, dan nyaman bagi semua."
+  },
+  "story": {
+    "heading": "Our Story",
+    "image": "/images/ourstory-tablet.png",
+    "paragraphs": [
+      "Us Clean lahir dari keyakinan sederhana bahwa setiap rumah layak mendapatkan kebersihan dan kenyamanan terbaik. Kami memahami bahwa waktu adalah aset berharga, sementara kesibukan sehari-hari sering kali membuat urusan kebersihan rumah menjadi tantangan tersendiri.",
+      "Kami berkomitmen menyediakan layanan pembersihan yang berkualitas tinggi, terjangkau, dan fleksibel, dengan standar kerja yang profesional dan tim yang dapat dipercaya. Bagi kami, kebersihan bukan hanya tentang rumah yang rapi, tetapi juga tentang menghadirkan ketenangan, kenyamanan, dan kualitas hidup yang lebih baik bagi setiap pelanggan."
+    ]
+  },
+  "stats": [
+    {
+      "icon": "Sparkles",
+      "count": "12+ Layanan",
+      "description": "Us Clean memiliki berbagai layanan yang tersedia, mulai dari General Cleaning, Layanan AC, Hydro Cleaning, Cuci Mobil, Fogging, Poles Lantai, Outdoor Cleaning, Indoor Cleaning,Water Cleaning, Toilet Cleaning, Kitchen Cleanin Dan Pilihan Lainnya. "
+    },
+    {
+      "icon": "MapPin",
+      "count": "8+ Area",
+      "description": "Hadir memberikan solusi bagi kamu yang tinggal di area Tanjung Pinang, Bintan, Batam, dan sekitarnya. Kami terus memperluas jangkauan untuk melayani lebih banyak pelanggan."
+    },
+    {
+      "icon": "Users",
+      "count": "15+ Partner",
+      "description": "Us Clean percaya bahwa kolaborasi adalah kunci untuk layanan terbaik. Kami bekerja sama dengan mitra terpercaya untuk memastikan kualitas layanan dan kepuasan pelanggan terus terjaga."
+    }
+  ],
+  "commitment": {
+    "heading": "Komitmen pada Kualitas Layanan Kebersihan Terbaik",
+    "image": "/images/ourstory2-new.png",
+    "paragraphs": [
+      "Kami percaya bahwa lingkungan bersih meningkatkan kualitas hidup dan produktivitas. Karena itu, kami berkomitmen mengutamakan kepuasan pelanggan dengan layanan kebersihan terbaik.",
+      "Tim profesional kami, yang dipilih secara ketat dan ahli di bidangnya, menggunakan metode dan peralatan terkini untuk memastikan setiap sudut rumah atau kantor Anda bersih dan nyaman."
+    ]
+  },
+  "cta": {
+    "heading": "Gabung Menjadi Bagian Us Clean",
+    "image": "/images/join-us-clean-final.png",
+    "description": "Bergabunglah menjadi bagian dari Us Clean dan wujudkan layanan kebersihan terbaik di Indonesia!",
+    "partnerButton": "Bergabung Jadi Partner",
+    "helperButton": "Daftar Sebagai Helper"
+  }
+}

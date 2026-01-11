@@ -1,0 +1,103 @@
+{
+  "intro": {
+    "title": "Jasa Cleaning Service Terbaik Se-Indonesia",
+    "description1": "Bersama Us Clean Services bersih-bersih rumah hingga furnitur hanya dengan satu Klik!",
+    "description2": "Dengan Us Clean Services, kebersihan tidak hanya tampak secara visual, tetapi juga menciptakan lingkungan yang nyaman, higienis, dan mendukung kesehatan dalam jangka panjang. Setiap proses pembersihan dilakukan dengan pendekatan yang sistematis, memperhatikan detail, serta menerapkan standar kerja yang konsisten agar kualitas kebersihan tetap terjaga.",
+    "image": "/images/beranda2.jpg",
+    "buttonText": "Hubungi Kami",
+    "buttonLink": "https://wa.me/6281364520919"
+  },
+  "layananSection": {
+    "title": "Layanan Kami",
+    "subtitle": "Mulai dari bersih-bersih ruangan, sofa, sampai bersihin AC ada di Us Clean Services."
+  },
+  "cta": {
+    "title": "Butuh Layanan Kebersihan Profesional Dengan Harga Terjangkau ?",
+    "description": "Hubungi Team Us Clean Services Untuk Mendapatkan Penawaran & Harga Terbaik.",
+    "buttonText": "Hubungi Kami Sekarang"
+  },
+  "reasons": {
+    "title": "4 Alasan Kenapa Harus memilih Us Clean Services sebagai Jasa Kebersihan",
+    "description": "Dengan dedikasi yang tinggi terhadap kepuasan pelanggan, kami terus berinovasi untuk memberikan layanan terbaik.",
+    "items": [
+      {
+        "icon": "MessageCircle",
+        "title": "CHAT WHATSAPP",
+        "desc": "Chat melalui whatsapp untuk berkonsultasi layanan yang dibutuhkan, Tim kami ramah selalu dan siap membantu Anda."
+      },
+      {
+        "icon": "ThumbsUp",
+        "title": "BERGARANSI",
+        "desc": "Kami siap memberikan garansi pengerjaan untuk setiap layanan sesuai dengan ketentuan & kesepakatan."
+      },
+      {
+        "icon": "Banknote",
+        "title": "HARGA TERJANGKAU",
+        "desc": "Kami memberikan penawaran harga yang terjangkau & ramah di dompet, kepuasan pelanggan adalah prioritas utama kami."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "BERPENGALAMAN",
+        "desc": "Kami memiliki tenaga kerja yang terlatih & handal melalui sistem rekruitment yang ketat dan evaluasi tiap bulan."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Apa Kata Mereka Tentang Us Clean Services",
+    "description": "Dengan dedikasi yang tinggi terhadap kepuasan pelanggan, kami terus berinovasi untuk memberikan layanan terbaik.",
+    "items": [
+      {
+        "name": "Siti Aisyah",
+        "role": "Ibu Rumah Tangga",
+        "image": "/images/siti.png",
+        "quote": "Hasilnya benar-benar memuaskan. Rumah jadi bersih, rapi, dan wangi. Pekerjaannya detail, sudut-sudut yang biasanya terlewat juga ikut dibersihkan. Jadi lebih nyaman untuk keluarga.",
+        "stars": 5
+      },
+      {
+        "name": "Budi Santoso",
+        "role": "Karyawan Swasta",
+        "image": "/images/budi.png",
+        "quote": "Pelayanannya cepat dan profesional. Datang tepat waktu, kerja rapi, dan komunikasinya enak. Sangat membantu, apalagi buat yang sibuk dan nggak sempat bersih-bersih sendiri.",
+        "stars": 5
+      },
+      {
+        "name": "Linda Wijaya",
+        "role": "Content Creator",
+        "image": "/images/linda.png",
+        "quote": "Pelayanan bersih-bersihnya sangat detail dan hasilnya kelihatan langsung. Rumah jadi lebih segar dan nyaman. Cocok banget buat yang mau rumah selalu bersih tanpa ribet. Recommended!",
+        "stars": 5
+      }
+    ]
+  },
+  "partners": {
+    "title": "Us Clean Services Partner",
+    "description": "Us Clean Services percaya bahwa kolaborasi adalah kunci untuk layanan terbaik. Us Clean Services telah bekerja sama dengan beberapa partner, dan kami masih membuka peluang untuk berkolaborasi",
+    "items": [
+      {
+        "name": "Bank Syariah\nIndonesia",
+        "image": "/images/bsi.webp"
+      }
+    ]
+  },
+  "programSection": {
+    "title": "Paling Sering Ditanyakan di Us Clean Services",
+    "items": [
+      {
+        "title": "Apa itu Us Clean Services?",
+        "desc": "Us Clean Services adalah platform penyedia layanan jasa kebersihan untuk rumah Anda."
+      },
+      {
+        "title": "Jenis bangunan apa saja yang dapat menggunakan layanan General Cleaning?",
+        "desc": "General Cleaning merupakan layanan perawatan dan pembersihan rutin secara berkala untuk rumah, apartemen, kantor dan tempat usaha kamu."
+      },
+      {
+        "title": "Apa jadwal yang sudah dipesan dapat diubah?",
+        "desc": "Ya, jadwal bisa diubah! Silakan hubungi Customer Service kami di +62-813 6452 0919."
+      },
+      {
+        "title": "Apakah ada garansi untuk layanan AC Cleaning?",
+        "desc": "Garansi cuci AC adalah 7 hari setelah pengerjaan (hanya untuk kebocoran). Garansi Overhaul AC (cuci besar), isi dan tambah freon adalah 14 hari setelah pengerjaan."
+      }
+    ]
+  }
+}

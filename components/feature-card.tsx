@@ -24,19 +24,22 @@ const FeatureCard = ({ title, description, icon, href }: FeatureCardProps) => {
 
   const IconComponent = iconMap[icon] || BookOpen
 
+  const showIcon = icon !== "Gift"
   return (
     <Card className="card-hover-effect glass rounded-2xl shadow-lg border-0 overflow-hidden h-full">
       <CardHeader className="pb-2">
-        <div className="w-14 h-14 rounded-full bg-gradient-to-br from-amber-100 to-amber-200 flex items-center justify-center mb-4 shadow-md">
-          <IconComponent className="h-7 w-7 text-amber-500" />
-        </div>
+        {showIcon && (
+          <div className="w-14 h-14 rounded-full bg-gradient-to-br from-[#0f4c81]/10 to-[#0f4c81]/20 flex items-center justify-center mb-4 shadow-md">
+            <IconComponent className="h-7 w-7 text-[#0f4c81]" />
+          </div>
+        )}
         <h3 className="text-xl font-bold font-nunito text-slate-800">{title}</h3>
       </CardHeader>
       <CardContent>
         <p className="text-slate-600">{description}</p>
       </CardContent>
       <CardFooter>
-        <Button asChild variant="ghost" className="text-amber-500 hover:text-amber-600 p-0">
+        <Button asChild variant="ghost" className="text-[#0f4c81] hover:text-[#0f4c81]/80 p-0">
          
         </Button>
       </CardFooter>

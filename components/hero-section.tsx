@@ -1,7 +1,4 @@
 import Image from "next/image"
-import Link from "next/link"
-import { Button } from "@/components/ui/button"
-import { ArrowRight } from "lucide-react"
 
 const HeroSection = () => {
   return (
@@ -10,18 +7,11 @@ const HeroSection = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 md:pr-12 mb-8 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-slate-900">
-              Membangun Tanjung Pinang <span className="text-emerald-600">Bersama</span>
+              Jasa Kebersihan <span className="text-[#0f4c81]">Profesional</span>
             </h1>
             <p className="text-lg text-slate-600 mb-8 max-w-lg">
-              Kue Cakar Ayam adalah platform digital untuk edukasi, dukungan UMKM, dan bantuan kemanusiaan bagi warga Tanjung Pinang.
+              Kami membantu menjaga rumah dan kantor tetap bersih, rapi, dan nyaman dengan layanan yang bisa dijadwalkan sesuai kebutuhan.
             </p>
-            <div className="flex flex-wrap gap-4">
-             
-                <Link href="/aid">
-                 
-                </Link>
-            
-            </div>
           </div>
           <div className="md:w-1/2 relative">
             <div className="rounded-xl overflow-hidden shadow-xl">
