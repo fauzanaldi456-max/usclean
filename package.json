@@ -64,6 +64,16 @@
     "vaul": "^0.9.6",
     "zod": "latest"
   },
+  "overrides": {
+    "react-day-picker": {
+      "react": "$react",
+      "react-dom": "$react-dom"
+    },
+    "vaul": {
+      "react": "$react",
+      "react-dom": "$react-dom"
+    }
+  },
   "devDependencies": {
     "@next/eslint-plugin-next": "^15.2.4",
     "@types/node": "^22",
